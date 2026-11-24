@@ -1853,8 +1853,8 @@
   {
     "id": 174,
     "name": "YUMTECH POOL",
-    "addresses": [],
-    "tags": ["/YUMTECH-SOLO/"],
+    "addresses": ["bc1qqp02e6u529esz2avj4d0nxwn4edex7zch3c2j2"],
+    "tags": ["YUMTECH Made in TURKEY"],
     "link": "https://yumtechpool.tr"
   }
 ]
